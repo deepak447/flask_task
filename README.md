@@ -56,3 +56,9 @@ pytest -vvv -s tests/
 # pytest --cov
 # open htmlcov/index.html
 ```
+
+### To Start Application from docker
+
+```
+docker-compose up -d
+```

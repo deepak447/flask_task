@@ -1,0 +1,7 @@
+
+services:
+  fyle-interview:
+    build: .
+    command: ./run.sh
+    ports:
+      - "7755:7755"
